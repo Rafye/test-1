@@ -1,0 +1,27 @@
+.Description{
+    display:grid;
+    grid-gap:1px;
+    background-color:black;
+    padding:1px;
+    grid-template-rows:auto auto auto auto auto;
+    grid-template-columns: auto auto auto;
+    
+    }
+.Description > div {
+    background-color:white;
+    text-align:center;
+    padding:2px;
+    font-size:15px;
+}
+.un {
+  
+    background-color:black;
+
+}
+
+
+
+
+
+
+
